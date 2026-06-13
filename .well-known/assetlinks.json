@@ -2,9 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.rydercom.debug",
+    "package_name": "com.rydercom.nativeaudio",
     "sha256_cert_fingerprints": [
-      "AE:40:D8:BD:DE:55:C4:8D:FE:B3:54:99:5A:75:F3:32:6D:49:5B:C9:D0:47:30:0B:FC:C9:0B:AC:02:62:E2:60"
+      "CE:A8:CE:68:4A:0D:49:14:C8:8C:24:F7:44:99:94:85:FD:F4:95:17:B2:3C:EE:BA:B5:C3:FE:08:34:17:05:85"
     ]
   }
 }]
